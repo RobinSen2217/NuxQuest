@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import Anchor from './Link'
 
+
 function Navbar() {
     document.body.style.backgroundColor='#F2ECBE'
   return (
